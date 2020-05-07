@@ -1,2 +1,3 @@
 # git_common
-For testing git tricks
+For testing git some tricks
+
